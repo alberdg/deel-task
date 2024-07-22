@@ -4,7 +4,7 @@
 
 1. All endpoints have been implemented
 2. There are tests for all endpoints
-3. Before running the api or the tests make sure seed script is run
+3. Before running the api or the tests make sure yarn install && yarn seed command is run
 4. I added some notes where pagination would be needed and for some assumptions I made
 
 💫 Welcome! 🎉
